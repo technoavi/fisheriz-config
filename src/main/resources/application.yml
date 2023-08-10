@@ -9,7 +9,7 @@ spring:
       server:
         bootstrap: true
         git:
-          uri: https://github.com/technoavi/techverse/fisheriz-config-server
+          uri: https://github.com/technoavi/fisheriz-config-server
 
 server:
   port: 8888
